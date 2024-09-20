@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF1B587F-653F-405F-987E-9087C5CBFA31"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2D39286-4AA2-475F-9933-8B34E4663E76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchHomeExercise/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "request(type:url:parameter:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2D39286-4AA2-475F-9933-8B34E4663E76 - 1ce5dffefade49a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FetchHomeExercise.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(type: &#x3c4;_0_0.Type, url: Swift.String, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;&#x3c4;_0_0, FetchHomeExercise.NetworkManager.NetworkError&gt;"
+                  moduleName = "FetchHomeExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gayatrimaa/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/iOS%20Stuff/Project/FetchHomeExercise/FetchHomeExercise/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "F2D39286-4AA2-475F-9933-8B34E4663E76 - 1ce5dffefade49a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FetchHomeExercise.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(type: &#x3c4;_0_0.Type, url: Swift.String, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;&#x3c4;_0_0, FetchHomeExercise.NetworkManager.NetworkError&gt;"
+                  moduleName = "FetchHomeExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gayatrimaa/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/iOS%20Stuff/Project/FetchHomeExercise/FetchHomeExercise/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "F2D39286-4AA2-475F-9933-8B34E4663E76 - 2b703d7a4299069b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FetchHomeExercise.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(type: &#x3c4;_0_0.Type, url: Swift.String, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;&#x3c4;_0_0, FetchHomeExercise.NetworkManager.NetworkError&gt;"
+                  moduleName = "FetchHomeExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gayatrimaa/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/iOS%20Stuff/Project/FetchHomeExercise/FetchHomeExercise/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "F2D39286-4AA2-475F-9933-8B34E4663E76 - 2b703d7a4299069b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for FetchHomeExercise.NetworkManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(type: &#x3c4;_0_0.Type, url: Swift.String, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;&#x3c4;_0_0, FetchHomeExercise.NetworkManager.NetworkError&gt;"
+                  moduleName = "FetchHomeExercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gayatrimaa/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/iOS%20Stuff/Project/FetchHomeExercise/FetchHomeExercise/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
