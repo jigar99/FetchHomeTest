@@ -13,7 +13,8 @@ Below are screenshots of the application screens.
 
 ![image1](https://github.com/user-attachments/assets/9d91b00d-215b-4b15-88fc-d38a85129a9f)
 
-![image1](https://github.com/user-attachments/assets/8366aefc-0827-47d1-837f-94d5823aa687)
+![image2](https://github.com/user-attachments/assets/0813bd83-869c-416b-9d46-eb6dec04d5bc)
+
 
 
 - **MVVM Architecture**: Organized code structure for better maintainability.
