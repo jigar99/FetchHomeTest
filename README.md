@@ -1,44 +1,27 @@
+
+#Dear reviewers, Thank you for taking the time to review my project.
 # FetchHomeTest
 A native iOS application that allows users to browse and view detailed recipes for desserts using the MealDB API. Built with Swift and SwiftUI, this app demonstrates the use of modern Swift features like async/await for asynchronous 
 
-
-
 ## Overview
 
-This is a native iOS app that allows users to browse recipes using the MealDB API. The app fetches a list of meals in the Dessert category and displays them to the user. When a meal is selected, detailed information about the meal is shown.
+In this project, I utilized the MVVM architecture along with SwiftUI for the user interface. 
 
-## Features
+Below are screenshots of the application screens.
+# Screenshots
 
-- Fetches a list of desserts from the MealDB API.
-- Displays meals sorted alphabetically.
-- Provides detailed information for each meal, including:
-  - Meal name
-  - Instructions
-  - Ingredients and measurements
-- Built using Swift Concurrency (async/await) for asynchronous operations.
-- User-friendly interface designed with SwiftUI.
 
-## API Endpoints
+![image1](https://github.com/user-attachments/assets/9d91b00d-215b-4b15-88fc-d38a85129a9f)
 
-The following API endpoints are utilized in this app:
+![image1](https://github.com/user-attachments/assets/8366aefc-0827-47d1-837f-94d5823aa687)
 
-1. **Dessert Meals List**: 
-   - `https://themealdb.com/api/json/v1/1/filter.php?c=Dessert`
 
-2. **Meal Details by ID**: 
-   - `https://themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID`
+- **MVVM Architecture**: Organized code structure for better maintainability.
+- **SwiftUI**: Leveraged SwiftUI for a modern and responsive UI.
+- **User-Friendly Interface**: Designed to provide an intuitive user experience.
 
-## Requirements
 
-- Xcode (latest version)
-- Swift (latest version)
-
-## Implementation Details
-
-- All asynchronous code is implemented using Swift Concurrency (`async/await`).
-- Null or empty values are filtered out before displaying data.
-
-## Setup
+## Installation
 
 To run this project locally:
 
